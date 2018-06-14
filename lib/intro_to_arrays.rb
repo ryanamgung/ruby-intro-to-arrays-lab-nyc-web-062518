@@ -1,1 +1,1 @@
-my_new
+def my_new
